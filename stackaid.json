@@ -35,22 +35,6 @@
           "source": "https://github.com/urllib3/urllib3"
         }
       ]
-    },
-    {
-      "source": "https://github.com/certifi/python-certifi",
-      "dependencies": []
-    },
-    {
-      "source": "https://github.com/Ousret/charset_normalizer",
-      "dependencies": []
-    },
-    {
-      "source": "https://github.com/kjd/idna",
-      "dependencies": []
-    },
-    {
-      "source": "https://github.com/urllib3/urllib3",
-      "dependencies": []
     }
   ]
 }
