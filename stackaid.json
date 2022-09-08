@@ -3,6 +3,53 @@
   "dependencies": [
     {
       "source": "https://github.com/psf/requests",
+      "dependencies": [
+        {
+          "source": "https://github.com/certifi/python-certifi"
+        },
+        {
+          "source": "https://github.com/Ousret/charset_normalizer"
+        },
+        {
+          "source": "https://github.com/kjd/idna"
+        },
+        {
+          "source": "https://github.com/Anorov/PySocks"
+        },
+        {
+          "source": "https://github.com/pytest-dev/pytest"
+        },
+        {
+          "source": "https://github.com/pytest-dev/pytest-cov"
+        },
+        {
+          "source": "https://github.com/kevin1024/pytest-httpbin"
+        },
+        {
+          "source": "https://github.com/pytest-dev/pytest-mock"
+        },
+        {
+          "source": "https://github.com/curzona/pytest-xdist"
+        },
+        {
+          "source": "https://github.com/urllib3/urllib3"
+        }
+      ]
+    },
+    {
+      "source": "https://github.com/certifi/python-certifi",
+      "dependencies": []
+    },
+    {
+      "source": "https://github.com/Ousret/charset_normalizer",
+      "dependencies": []
+    },
+    {
+      "source": "https://github.com/kjd/idna",
+      "dependencies": []
+    },
+    {
+      "source": "https://github.com/urllib3/urllib3",
       "dependencies": []
     }
   ]
