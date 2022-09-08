@@ -1,4 +1,9 @@
 {
   "version": 1,
-  "dependencies": []
+  "dependencies": [
+    {
+      "source": "https://github.com/psf/requests",
+      "dependencies": []
+    }
+  ]
 }
